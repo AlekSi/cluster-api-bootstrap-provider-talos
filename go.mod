@@ -10,7 +10,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/talos-systems/crypto v0.3.1
 	github.com/talos-systems/talos/pkg/machinery v0.11.3
-	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
+	golang.org/x/sys v0.1.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.17.9
 	k8s.io/apiextensions-apiserver v0.17.9
